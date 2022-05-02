@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-v83nl7_e$l=u4=j_(iw61w0ljo+m*zr=pg7604a_ns*xp%av0=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cartoonfy.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['cartoonfy.essentialclicks.online','127.0.0.1']
 
 
 # Application definition
